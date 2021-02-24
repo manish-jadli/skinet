@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{DFA48955-D303-492E-A36E-ECCE891A3F83}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="API/appsettings.json">
+    <Files>
+      <File FileName="API/Controllers/WeatherForecastController.cs" Line="15" Column="10" />
+      <File FileName="API/Startup.cs" Line="57" Column="1" />
+      <File FileName="API/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="API/Program.cs" Line="15" Column="10" />
+      <File FileName="API/Controllers/ProductsController.cs" Line="34" Column="2" />
+      <File FileName="API/appsettings.json" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="skinet" expanded="True">
+            <Node name="API" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
